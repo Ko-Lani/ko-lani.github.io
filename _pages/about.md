@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.skku.edu' target='_blank'>Sungkyunkwan University</a>. <a href='https://www.yonsei.ac.kr' target='_blank'>Yonsei University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # 사각형이 깔끔하면 false, 동그란 게 좋으면 true로 바꿔!
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>M.S. in Electrical and Computer Engineering</p>
+    <p>Sungkyunkwan University</p>
+    <p>Incoming Ph.D. Student in Artificial Intelligence</p>
+    <p>Yonsei University</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
